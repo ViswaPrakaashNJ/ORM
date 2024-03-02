@@ -49,7 +49,10 @@ class BookAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
+
+
 ![alt text](<Web app.png>)
+
 
 
 
