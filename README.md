@@ -52,5 +52,6 @@ class BookAdmin(admin.ModelAdmin):
 ![alt text](<Web app.png>)
 
 
+
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
